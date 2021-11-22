@@ -353,7 +353,5 @@
 	$(".button, a, button").mouseup(function() {
 		$(this).blur();
 	});
-
-    $("body").css({"overflow-x":"hidden",'position':'relative'});
-
+    
 })(jQuery);
