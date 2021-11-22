@@ -8,6 +8,9 @@ html {
 body {
 	overflow-x: hidden;
 }
+body{
+	position: relative;
+}	
 
 body, p {
 	color: #787976; 
@@ -1423,8 +1426,8 @@ input[type='checkbox'] {
 }
 
 .lightbox-basic .testimonial-container {
-	margin-top: 1.75rem;
-	margin-bottom: 2.125rem;
+	margin-top: 10.15rem;
+
 	padding: 1.125rem 1.5rem 1.125rem 1.5rem;
 	border-radius: 0.25rem;
 	background-color: #fbfbfb;
@@ -2431,7 +2434,11 @@ a:hover.back-to-top {
 }
 
 .mfp-content p {
-	margin-top:110px;
 	font-size:1.1rem;
+}
+
+
+.cisco {
+	padding:71px 0;
 }
 
