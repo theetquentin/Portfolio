@@ -8,11 +8,6 @@ html {
 
 body {
 	overflow-x: hidden;
-	position: relative;
-}	
-
-.navbar{
-	max-width:100%;
 }
 
 body, p {

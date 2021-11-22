@@ -353,5 +353,9 @@
 	$(".button, a, button").mouseup(function() {
 		$(this).blur();
 	});
-    
+
+    window.onscroll = function () {
+        window.scrollTo(0,window.scrollY);
+    };
+
 })(jQuery);
