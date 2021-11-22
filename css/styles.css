@@ -1840,6 +1840,8 @@ a:hover.back-to-top {
 		padding: 2.125rem 1.5rem 2.125rem 2rem;
 		box-shadow: none;
         background: transparent;
+		margin-top: 0px;
+    	overflow-x: hidden;
 	}
 	
 	.navbar-custom .navbar-brand.logo-text {
