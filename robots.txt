@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /search
+Allow: /search/about
+Allow: /search/static
+Allow: /search/howsearchworks
+Allow: /apropos
+Disallow: /sdch
+Disallow: /groups
+Disallow: /index.html?
+Disallow: /projets
